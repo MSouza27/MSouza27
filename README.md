@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">- Software Developer<br>- Back-End Developer<br>- Java Developer<br>- Python Enthusiast<br>- Machine Learning and Deep Learning Researcher</p>
+<p align="left">
+- Software Developer<br>
+- Back-End Developer<br>
+- Java Developer<br>
+- Python Enthusiast<br>
+- Machine Learning and Deep Learning Researcher, focusing on Java-based solutions<br>
+</p>
 
 ###
 
@@ -50,16 +56,16 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/magno-souza-dos-santos" target="_blank">
+  <a href="https://www.linkedin.com/in/magno-souza-dos-santos" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="magno1988" target="_blank">
+  <a href="https://instagram.com/magno1988" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
 
 ###
 
-<p align="left"><b>Specialties:</b> Java | Python | Visão Computacional | OpenCV | TensorFlow | Keras | PyTorch | Deep Learning | Machine Learning | Spring Boot | SQL | MongoDB | AWS | Docker</p>
-
-
+<p align="left">
+<b>Specialties:</b> Java | Spring Boot | Python | Deep Learning | Machine Learning | TensorFlow | Keras | PyTorch | Visão Computacional | OpenCV | SQL | MongoDB | AWS | Docker
+</p>
