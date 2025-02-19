@@ -3,44 +3,25 @@
 ###
 
 <p align="left">
-- Software Developer<br>
-- Back-End Developer<br>
-- Java Developer<br>
-- Python Enthusiast<br>
-- Machine Learning and Deep Learning Researcher, focusing on Java-based solutions<br>
+- Back-End Developer | Full Stack Enthusiast<br>
+- Especializando-se em Java Backend<br>
+- Apaixonado por Microsserviços, APIs RESTful e Arquitetura Escalável<br>
+- Explorando Machine Learning e Deep Learning para otimização de processos<br>
 </p>
 
 ###
 
-<h2 align="left">Techs</h2>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=keras" height="40" alt="keras logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,python,tensorflow,keras,pytorch,opencv,mysql,postgres,mongodb,aws,docker" height="40" alt="tech stack logos"  />
 </div>
+
+###
+
+<h2 align="left">GitHub Stats</h2>
 
 ###
 
@@ -67,5 +48,6 @@
 ###
 
 <p align="left">
-<b>Specialties:</b> Java | Spring Boot | Python | Deep Learning | Machine Learning | TensorFlow | Keras | PyTorch | Visão Computacional | OpenCV | SQL | MongoDB | AWS | Docker
+<b>Specialties:</b> Java | Spring Boot | Angular | Microsserviços | APIs RESTful | JPA | Hibernate | SQL | MongoDB | Docker | AWS | CI/CD | Metodologias Ágeis (Scrum, Kanban)
 </p>
+
