@@ -3,10 +3,11 @@
 ###
 
 <p align="left">
-- Back-End Developer | Full Stack Enthusiast<br>
-- Especializando-se em Java Backend<br>
-- Apaixonado por Microsserviços, APIs RESTful e Arquitetura Escalável<br>
-- Explorando Machine Learning e Deep Learning para otimização de processos<br>
+- 💻 Desenvolvedor Back-End especializado em Java e Spring Boot<br>
+- 🚀 Experiência em desenvolvimento de APIs RESTful e Microsserviços<br>
+- 🔥 Full Stack Developer com foco em Java (Spring Boot) e Angular<br>
+- ☁️ Familiaridade com Cloud Computing (AWS, Docker)<br>
+- 🎯 Apaixonado por criar soluções escaláveis e otimizadas para resolver problemas complexos<br>
 </p>
 
 ###
@@ -16,7 +17,27 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,python,tensorflow,keras,pytorch,opencv,mysql,postgres,mongodb,aws,docker" height="40" alt="tech stack logos"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring Boot" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="Hibernate" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" />
 </div>
 
 ###
@@ -26,8 +47,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MSouza27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MSouza27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MSouza27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MSouza27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="Most Used Languages" />
 </div>
 
 ###
@@ -38,16 +59,16 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/magno-souza-dos-santos" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/magno1988" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
   </a>
 </div>
 
 ###
 
 <p align="left">
-<b>Specialties:</b> Java | Spring Boot | Angular | Microsserviços | APIs RESTful | JPA | Hibernate | SQL | MongoDB | Docker | AWS | CI/CD | Metodologias Ágeis (Scrum, Kanban)
+<b>Specialties:</b> Java | Spring Boot | Angular | Microsserviços | APIs RESTful | Hibernate | SQL | MongoDB | CI/CD | Docker | AWS | Git | Metodologias Ágeis (Scrum, Kanban)
 </p>
 
