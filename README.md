@@ -1,74 +1,86 @@
-<h2 align="left">About Me</h2>
+<a href="https://www.github.com/MSouza27"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1451da&height=120&section=header"/></a>
 
-###
+<h2 align="center">Olá, sou Magno Souza! 👋🏻</h2>
+🌍 Apaixonado por Tecnologia  
 
-<p align="left">
-- 💻 Desenvolvedor Back-End especializado em Java e Spring Boot<br>
-- 🚀 Experiência em desenvolvimento de APIs RESTful e Microsserviços<br>
-- 🔥 Full Stack Developer com foco em Java (Spring Boot) e Angular<br>
-- ☁️ Familiaridade com Cloud Computing (AWS, Docker)<br>
-- 🎯 Apaixonado por criar soluções escaláveis e otimizadas para resolver problemas complexos<br>
-</p>
+🧑🏻‍💻 Desenvolvedor Back-End  
+🎓 Cursando a transição para a área de TI  
+⚡ Gosto de desafios, soluções criativas e estou sempre em busca de novos aprendizados.  
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>  
+<br/>  
 
-###
-
-<h2 align="left">Tech Stack</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring Boot" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="Hibernate" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" />
+<h2 align="center">📫 Conecte-se comigo!</h2>  
+<div align="center">
+<a href="https://github.com/MSouza27">
+<img src="https://img.shields.io/badge/github-1451da?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+<a href="https://www.linkedin.com/in/magno-souza-dos-santos/">
+<img src="https://img.shields.io/badge/linkedin-1451da?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://instagram.com/magno1988" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-1451da?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/></a>
 </div>
+<br/>  
 
-###
-
-<h2 align="left">GitHub Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MSouza27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MSouza27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="Most Used Languages" />
+<h2 align="center">🛠️ Habilidades Técnicas</h2>
+<table><tr><td valign="top" width="33%">
+<h2 align="center">Frontend</h2>
+<div align="center">  
+<a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://skillicons.dev/icons?i=html" alt="HTML5"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="CSS3"/></a>  
+<a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/></a>
+ <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap"/></a>
+<a href="https://jquery.com/"><img src="https://skillicons.dev/icons?i=jquery" alt="jQuery"/></a>
+<a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript"/></a>
+<a href="https://angular.dev/"><img src="https://skillicons.dev/icons?i=angular"></a>
 </div>
+</td><td valign="top" width="33%">
 
-###
-
-<h2 align="left">Social Media</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/magno-souza-dos-santos" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/magno1988" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
-  </a>
+<h2 align="center">Backend</h2>
+<div align="center">   
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a> 
+<a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" alt="Spring"/></a>        
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>  
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/></a> 
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL"/></a>  
 </div>
+</td><td valign="top" width="33%">
 
-###
+<h2 align="center">DevTools</h2>
+<div align="center">  
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>  
+<a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>  
+<a href="https://aws.amazon.com/pt/?nc2=h_lg"><img src="https://skillicons.dev/icons?i=amazonwebservices" alt="AWS" /></a> 
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>  
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>   
+</div>
+</td></tr>
+</table> 
+<br/>
 
-<p align="left">
-<b>Specialties:</b> Java | Spring Boot | Angular | Microsserviços | APIs RESTful | Hibernate | SQL | MongoDB | CI/CD | Docker | AWS | Git | Metodologias Ágeis (Scrum, Kanban)
-</p>
+<h2 align="center">🌐 Perfil de Plataformas</h2>
+<p align="center">Meus certificados estão no perfil púiblico de cada plataforma. </p>
+<div align="center">
+<a href="https://learn.microsoft.com/pt-br/users/me/">
+<img src="https://img.shields.io/badge/Microsoft_Learn-1451da?style=for-the-badge&logo=microsoft&logoColor=white" alt="microsoft learn"/></a>
+<a href="https://www.credly.com/users/italo-rocha.b1ee0390/edit">
+<img src="https://img.shields.io/badge/Credly-1451da?style=for-the-badge&logo=credly&logoColor=white" alt="credly"/></a>
+</div>  
+<br/> 
+
+<h2 align="center">🐙 GitHub Stats</h2>
+<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSouza27&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MSouza27&theme=github_dark&utcOffset=8)">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MSouza27&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MSouza27&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MSouza27&theme=github_dark">
+</div>
+<br/>
+</br>
+<div align="center">Made by 👽 <a href="https://github.com/MSouza27">Magno Souza</a>.</div></summary> 
+
+<a href="https://github.com/ClaudioMendonca-Eng"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1451da&height=120&section=footer"/></a>
 
