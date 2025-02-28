@@ -60,16 +60,6 @@
 </table> 
 <br/>
 
-<h2 align="center">🌐 Perfil de Plataformas</h2>
-<p align="center">Meus certificados estão no perfil púiblico de cada plataforma. </p>
-<div align="center">
-<a href="https://learn.microsoft.com/pt-br/users/me/">
-<img src="https://img.shields.io/badge/Microsoft_Learn-1451da?style=for-the-badge&logo=microsoft&logoColor=white" alt="microsoft learn"/></a>
-<a href="https://www.credly.com/users/italo-rocha.b1ee0390/edit">
-<img src="https://img.shields.io/badge/Credly-1451da?style=for-the-badge&logo=credly&logoColor=white" alt="credly"/></a>
-</div>  
-<br/> 
-
 <h2 align="center">🐙 GitHub Stats</h2>
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSouza27&theme=github_dark">
