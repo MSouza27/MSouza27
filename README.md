@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-1451da?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="https://instagram.com/magno1988" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-1451da?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
-<a href="mailto:seuemail@email.com">
+<a href="mailto:magnoapt@gmail.com">
 <img src="https://img.shields.io/badge/Email-1451da?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 </div>
 
