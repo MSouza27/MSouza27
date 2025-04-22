@@ -1,7 +1,7 @@
 <a href="https://github.com/MSouza27"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1451da&height=120&section=header"/></a>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1451DA&size=30&center=true&vCenter=true&width=900&lines=Olá%2C+eu+sou+o+Magno+Souza!+👋🏻;Back-End+Developer+🚀;Apaixonado+por+Tecnologia+🌍;Em+transição+para+TI+🎓" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=1451DA&size=30&center=true&vCenter=true&width=900&lines=Olá%2C+eu+sou+o+Magno+Souza!+👋🏻;Back-End+Developer+🚀/>
 </h1>
 
 <p align="center">
