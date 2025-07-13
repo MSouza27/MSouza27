@@ -35,8 +35,9 @@ Sou movido por desafios, aprendizado contínuo e paixão por tecnologia. Tenho i
 
 ### Front-End
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,typescript,angular" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,typescript,react" />
 </p>
+
 
 ### DevOps e Ferramentas
 <p align="center">
