@@ -1,10 +1,10 @@
 # Magno Souza
 
-**Fullstack Developer | Java • React | Especializando-se em Engenharia de Dados**
+**Fullstack Developer | Java & React | Especializando-se em Engenharia de Dados**
 
-Sou desenvolvedor fullstack com sólida base em Java no backend (Spring Boot) e React no frontend. Tenho experiência na construção de APIs RESTful, integração com bancos de dados relacionais e não-relacionais, além de domínio no uso de Git, Docker e outras ferramentas modernas de desenvolvimento.
+Sou desenvolvedor fullstack com foco em aplicações Java no backend (Spring Boot) e React no frontend. Tenho experiência na construção de APIs RESTful, integração com bancos de dados relacionais e NoSQL, além de familiaridade com ferramentas modernas como Docker, Git e AWS.
 
-Atualmente estou em transição para a área de **Engenharia de Dados**, cursando especialização pela CESAR School, com foco em Big Data, pipelines de dados e infraestrutura em nuvem.
+Atualmente estou cursando especialização em **Engenharia e Análise de Dados** pela CESAR School, aprofundando meus conhecimentos em arquitetura de dados, processamento em larga escala e infraestrutura em nuvem.
 
 ---
 
@@ -17,8 +17,7 @@ Atualmente estou em transição para a área de **Engenharia de Dados**, cursand
 
 ### 🎨 Front-End
 - React.js • JavaScript • TypeScript  
-- HTML5 • CSS3 • Bootstrap • Tailwind CSS  
-- Consumo de APIs • Componentização • Hooks
+- HTML5 • CSS3 • Bootstrap • Tailwind CSS
 
 ### ☁️ DevOps e Ferramentas
 - Git & GitHub  
@@ -30,7 +29,7 @@ Atualmente estou em transição para a área de **Engenharia de Dados**, cursand
 
 ## 📚 Especialização em Engenharia de Dados
 
-Atualmente cursando pós-graduação em Engenharia e Análise de Dados na [CESAR School](https://www.cesar.school/), onde estou aprofundando conhecimentos em:
+Cursando pós-graduação em Engenharia e Análise de Dados na [CESAR School](https://www.cesar.school/), com foco em:
 - Arquitetura de pipelines de dados
 - Apache Beam e Spark
 - Processamento de dados em larga escala
