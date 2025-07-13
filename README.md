@@ -38,12 +38,6 @@ Sou movido por desafios, aprendizado contínuo e paixão por tecnologia. Tenho i
   <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,typescript,react" />
 </p>
 
-
-### DevOps e Ferramentas
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,amazonwebservices,git,github,postman,idea" />
-</p>
-
 ---
 
 ## 📈 Estatísticas GitHub
