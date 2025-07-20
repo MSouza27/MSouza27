@@ -43,14 +43,23 @@ Atualmente estou cursando especialização em **Engenharia e Análise de Dados**
 
 ## 📚 Especialização em Engenharia de Dados
 
-Cursando pós-graduação em Engenharia e Análise de Dados na [CESAR School](https://www.cesar.school/), com foco em:
-- Arquitetura de pipelines de dados
-- Apache Beam e Apache Spark
-- Processamento de dados em larga escala
-- ETL, Data Lakes e Cloud Computing
-- Deep Learning aplicado a grandes volumes de dados
+<a href="https://www.cesar.school/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_CESAR_School.svg/512px-Logo_CESAR_School.svg.png" alt="CESAR School" height="60"/>
+</a>
+
+Cursando pós-graduação em Engenharia e Análise de Dados na **CESAR School**, com foco em:
+
+- Arquitetura de pipelines de dados  
+- Apache Beam e Apache Spark  
+- Processamento de dados em larga escala  
+- ETL, Data Lakes e Cloud Computing  
+- Deep Learning aplicado a grandes volumes de dados  
 - Soluções em nuvem com AWS (S3, EC2, Glue, Redshift)
 
+### 🚀 Badges de Estudo e Interesse
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)  
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-TensorFlow%20%7C%20PyTorch-blueviolet?logo=tensorflow&logoColor=white)
 
 ---
 
