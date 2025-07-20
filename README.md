@@ -43,11 +43,7 @@ Atualmente estou cursando especialização em **Engenharia e Análise de Dados**
 
 ## 📚 Especialização em Engenharia de Dados
 
-<a href="https://www.cesar.school/" target="_blank">
-  <img src="https://www.cesar.school/wp-content/themes/cesar/assets/images/logo-cesar-school.svg" alt="CESAR School" height="60"/>
-</a>
-
-Cursando pós-graduação em Engenharia e Análise de Dados na **CESAR School**, com foco em:
+Cursando pós-graduação em Engenharia e Análise de Dados na [CESAR School](https://www.cesar.school/), com foco em:
 
 - Arquitetura de pipelines de dados  
 - Apache Beam e Apache Spark  
