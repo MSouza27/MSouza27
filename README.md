@@ -1,10 +1,10 @@
-# Magno Souza
+# 👨‍💻 Magno Souza
 
 **Fullstack Developer | Java & React | Especializando-se em Engenharia de Dados**
 
 Sou desenvolvedor fullstack com foco em aplicações Java no backend (Spring Boot) e React no frontend. Tenho experiência na construção de APIs RESTful, integração com bancos de dados relacionais e NoSQL, além de familiaridade com ferramentas modernas como Docker, Git e AWS.
 
-Atualmente estou cursando especialização em **Engenharia e Análise de Dados** pela CESAR School, aprofundando meus conhecimentos em arquitetura de dados, processamento em larga escala e infraestrutura em nuvem.
+Atualmente estou cursando especialização em **Engenharia e Análise de Dados** pela [CESAR School](https://www.cesar.school/), aprofundando meus conhecimentos em arquitetura de dados, processamento em larga escala e infraestrutura em nuvem.
 
 ---
 
@@ -27,13 +27,32 @@ Atualmente estou cursando especialização em **Engenharia e Análise de Dados**
 
 ---
 
+## 🛠️ Engenheiro de Dados Júnior
+
+- Conhecimento em modelagem de dados e normalização de bancos relacionais e NoSQL  
+- Experiência prática com Python para manipulação e transformação de dados (Pandas, NumPy)  
+- Familiaridade com ETL/ELT, Data Lakes e Data Warehousing  
+- Noções de ferramentas como Apache Airflow, Apache Spark e Apache Kafka  
+- Prática com consultas SQL avançadas, limpeza e validação de dados  
+- Entendimento de pipelines de dados, versionamento de dados e boas práticas em engenharia  
+- Experiência com APIs para ingestão de dados (REST, JSON, CSV, XML)  
+- Princípios de arquitetura de dados e governança básica  
+- Interesse contínuo em cloud computing (AWS, GCP) e ferramentas open source de dados
+
+---
+
+## 📚 Especialização em Engenharia de Dados
+
 ## 📚 Especialização em Engenharia de Dados
 
 Cursando pós-graduação em Engenharia e Análise de Dados na [CESAR School](https://www.cesar.school/), com foco em:
 - Arquitetura de pipelines de dados
-- Apache Beam e Spark
+- Apache Beam e Apache Spark
 - Processamento de dados em larga escala
-- ETL, Data Lakes, Cloud Computing
+- ETL, Data Lakes e Cloud Computing
+- Deep Learning aplicado a grandes volumes de dados
+- Soluções em nuvem com AWS (S3, EC2, Glue, Redshift)
+
 
 ---
 
