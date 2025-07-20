@@ -27,7 +27,7 @@ Atualmente estou cursando especialização em **Engenharia e Análise de Dados**
 
 ---
 
-## 🛠️ Engenheiro de Dados Júnior
+## 🛠️ Engenheiro de Dados
 
 - Conhecimento em modelagem de dados e normalização de bancos relacionais e NoSQL  
 - Experiência prática com Python para manipulação e transformação de dados (Pandas, NumPy)  
@@ -40,8 +40,6 @@ Atualmente estou cursando especialização em **Engenharia e Análise de Dados**
 - Interesse contínuo em cloud computing (AWS, GCP) e ferramentas open source de dados
 
 ---
-
-## 📚 Especialização em Engenharia de Dados
 
 ## 📚 Especialização em Engenharia de Dados
 
